@@ -21,7 +21,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Airbnb: A brief data analysis from Quebec - Canada:** https://bit.ly/2YbcGZ9
+* **Airbnb: A brief data analysis from Quebec - Canada:** https://bit.ly/2MUtyy7
 
 
 ---
