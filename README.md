@@ -7,18 +7,12 @@
 # Leilisson Figueiredo
 <sub>*Undergraduate student in computer engineering* at Universidade Federal de Ouro Preto</sub>
 
-
-
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/leilisson-figueiredo-2323291a4/)
-* [Medium](https://www.medium.com)
 
-
-## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
-
+## Projects:
 * **Airbnb: A brief data analysis from Quebec - Canada:** https://bit.ly/2MUtyy7
 
 
