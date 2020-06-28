@@ -14,6 +14,8 @@
 
 ## Projects:
 * **Airbnb: A brief data analysis from Quebec - Canada:** https://bit.ly/2MUtyy7
+* **Uma breve análise do crimes graves cometido no estado de Minas Gerais no ano de 2019:** https://bit.ly/3g8IchK
+
 
 
 ---
