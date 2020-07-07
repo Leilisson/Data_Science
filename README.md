@@ -14,6 +14,8 @@
 * **Airbnb: A brief data analysis from Quebec - Canada:** https://bit.ly/2MUtyy7
 * **Uma breve análise de crimes graves cometidos no estado de Minas Gerais no ano de 2019:** https://bit.ly/3g8IchK
 * **Panorama da COVID-19 no Brasil e no mundo (até a data 28-06-2020):** https://bit.ly/3dEH97C
+* **Detectando Fraudes em Cartões de Crédito:** https://bit.ly/3gxJzXm
+
 
 
 ---
