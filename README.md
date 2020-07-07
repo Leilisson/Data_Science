@@ -5,7 +5,7 @@
 </p>
 
 # Leilisson Figueiredo
-<sub>*Graduando em Engenharia de Computação* na Universidade Federal de Ouro Preto</sub>
+<sub>*Graduando em Engenharia de Computação na Universidade Federal de Ouro Pret*</sub>
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/leilisson-figueiredo-2323291a4/)
