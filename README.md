@@ -5,14 +5,12 @@
 </p>
 
 # Leilisson Figueiredo
-<sub>*Undergraduate student in computer engineering* at Universidade Federal de Ouro Preto</sub>
-
-**Background in:** Python, Machine Learning, Mathematical Optimisation.
+<sub>*Graduando em Engenharia de Computação* na Universidade Federal de Ouro Preto</sub>
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/leilisson-figueiredo-2323291a4/)
 
-## Projects:
+## Projetos:
 * **Airbnb: A brief data analysis from Quebec - Canada:** https://bit.ly/2MUtyy7
 * **Uma breve análise de crimes graves cometidos no estado de Minas Gerais no ano de 2019:** https://bit.ly/3g8IchK
 * **Panorama da COVID-19 no Brasil e no mundo (até a data 28-06-2020):** https://bit.ly/3dEH97C
