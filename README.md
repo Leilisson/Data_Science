@@ -15,6 +15,7 @@
 * **Uma breve análise de crimes graves cometidos no estado de Minas Gerais no ano de 2019:** https://bit.ly/3g8IchK
 * **Panorama da COVID-19 no Brasil e no mundo (até a data 28-06-2020):** https://bit.ly/3dEH97C
 * **Detectando Fraudes em Cartões de Crédito:** https://bit.ly/3gxJzXm
+* **TCC: Utilização de misturas de gaussianas para análise de casos de dengue em uma região de baixa densidade demográfica:** https://bit.ly/3p0hI7D
 
 
 
